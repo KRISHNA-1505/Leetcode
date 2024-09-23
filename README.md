@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/KRISHNA-1505/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KRISHNA-1505/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KRISHNA-1505/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
