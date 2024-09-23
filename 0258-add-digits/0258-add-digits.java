@@ -6,7 +6,7 @@ class Solution {
             return num;
         }
        
-        while(s>=10)
+        while(num>=10)
         {
             s=0;
             while(num!=0)
@@ -17,7 +17,7 @@ class Solution {
             }
             num=s;
         }
-        return s;
+        return num;
     }
 
 }
