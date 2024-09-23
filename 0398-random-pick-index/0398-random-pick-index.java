@@ -1,21 +1,25 @@
 class Solution {
-    int[] nums;
-    Random random;
+
+    private Map<Integer, List<Integer>> map;
+    private Random random;
+
     public Solution(int[] nums) {
-        this.nums = nums;
-        this.random = new Random();
-    }
-    public int pick(int target) {
-        int idx = -1;
-        int count = 0;
+        map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                count++;
-                if (random.nextInt(count) == 0) {
-                    idx = i;
-                }
+            int n = nums[i];
+            List<Integer> indexes = map.get(n);
+            if (indexes == null) {
+                indexes = new ArrayList<>();
+                map.put(n, indexes);
             }
+            indexes.add(i);
         }
-        return idx;
+        random = new Random();
     }
+
+    public int pick(int target) {
+        List<Integer> indexes = map.get(target);
+        return indexes.get(random.nextInt(indexes.size()));
+    }
+
 }
