@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KRISHNA-1505/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/KRISHNA-1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KRISHNA-1505/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String
 |  |
