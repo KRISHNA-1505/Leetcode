@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KRISHNA-1505/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KRISHNA-1505/Leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/KRISHNA-1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/KRISHNA-1505/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
