@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KRISHNA-1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/KRISHNA-1505/Leetcode/tree/master/0398-random-pick-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
