@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Math
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KRISHNA-1505/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
+| [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
