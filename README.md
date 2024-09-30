@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KRISHNA-1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/KRISHNA-1505/Leetcode/tree/master/0398-random-pick-index) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
@@ -82,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KRISHNA-1505/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -165,5 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
