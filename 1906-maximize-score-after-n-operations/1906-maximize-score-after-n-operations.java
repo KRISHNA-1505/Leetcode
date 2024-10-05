@@ -1,33 +1,34 @@
 class Solution {
+
     public int maxScore(int[] nums) {
-        int n = nums.length;
-        Map<Integer, Integer> gcdVal = new HashMap<>();
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                gcdVal.put((1 << i) + (1 << j), gcd(nums[i], nums[j]));
+        int n = nums.length, m = 1 << n;
+        int[] dp = new int[m];
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                dp[1 << i | 1 << j] = gcd(nums[i], nums[j]);
             }
         }
-        
-        int[] dp = new int[1 << n];
-        
-        for (int i = 0; i < (1 << n); ++i) {
-            int bits = Integer.bitCount(i);
-            if (bits % 2 != 0) 
+        for (int s = 0; s < m; s++) {
+            int count = Integer.bitCount(s);
+            if (count <= 2 || (count & 1) != 0) {
                 continue;
-            for (int k : gcdVal.keySet()) {
-                if ((k & i) != 0) 
-                    continue;
-                dp[i ^ k] = Math.max(dp[i ^ k], dp[i] + gcdVal.get(k) * (bits / 2 + 1));
             }
+            count >>= 1;
+            int max = 0;
+            for (int x = s, lowbitx; x > 0; x -= lowbitx) {
+                lowbitx = x & -x;
+                for (int y = (x ^ lowbitx), lowbity; y > 0; y -= lowbity) {
+                    lowbity = y & -y;
+                    int mask = lowbitx | lowbity;
+                    max = Math.max(dp[s ^ mask] + count * dp[mask], max);
+                }
+            }
+            dp[s] = max;
         }
-        
-        return dp[(1 << n) - 1];
+        return dp[m - 1];
     }
-    
-    public int gcd(int a, int b) {
-        if (b == 0)   
-            return a;     
-        return gcd(b, a % b);   
+
+    private int gcd(int a, int b) {
+        return b == 0 ? a : gcd(b, a % b);
     }
 }
-
