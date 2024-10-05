@@ -1,11 +1,7 @@
 class Solution {
     public int addDigits(int num) {
         int rem=0,rev=0,s=10;
-        if(num<10)
-        {
-            return num;
-        }
-       
+        if(num<10)return num;
         while(num>=10)
         {
             s=0;
@@ -19,5 +15,4 @@ class Solution {
         }
         return num;
     }
-
 }
