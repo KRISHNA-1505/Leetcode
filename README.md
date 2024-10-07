@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0575-distribute-candies) |
+| [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
