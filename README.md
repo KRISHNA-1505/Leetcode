@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Matrix
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Sorting
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KRISHNA-1505/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KRISHNA-1505/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
+| [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bitmask
 |  |
 | ------- |
