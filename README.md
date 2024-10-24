@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/KRISHNA-1505/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KRISHNA-1505/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KRISHNA-1505/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
