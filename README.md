@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KRISHNA-1505/Leetcode/tree/master/0443-string-compression) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Recursion
@@ -305,4 +307,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
