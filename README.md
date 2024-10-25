@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 ## Linked List
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KRISHNA-1505/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
