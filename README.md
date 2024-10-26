@@ -256,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
