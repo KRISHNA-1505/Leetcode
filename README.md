@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/KRISHNA-1505/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/KRISHNA-1505/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/KRISHNA-1505/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
