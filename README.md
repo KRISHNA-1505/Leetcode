@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/KRISHNA-1505/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/KRISHNA-1505/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/KRISHNA-1505/Leetcode/tree/master/0792-binary-search) |
 ## Counting
 |  |
 | ------- |
