@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0039-combination-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0455-assign-cookies) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Game Theory
