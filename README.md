@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KRISHNA-1505/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KRISHNA-1505/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Matrix
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/KRISHNA-1505/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KRISHNA-1505/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KRISHNA-1505/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## String
