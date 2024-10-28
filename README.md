@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KRISHNA-1505/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0455-assign-cookies) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Game Theory
 |  |
 | ------- |
