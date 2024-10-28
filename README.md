@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/KRISHNA-1505/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/KRISHNA-1505/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KRISHNA-1505/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/KRISHNA-1505/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Recursion
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/KRISHNA-1505/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KRISHNA-1505/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bucket Sort
 |  |
