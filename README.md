@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KRISHNA-1505/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/KRISHNA-1505/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/KRISHNA-1505/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Counting
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KRISHNA-1505/Leetcode/tree/master/0455-assign-cookies) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/KRISHNA-1505/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Game Theory
