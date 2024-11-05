@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/KRISHNA-1505/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/KRISHNA-1505/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KRISHNA-1505/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Linked List
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KRISHNA-1505/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
