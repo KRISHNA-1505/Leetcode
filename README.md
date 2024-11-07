@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KRISHNA-1505/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/KRISHNA-1505/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0547-number-of-provinces](https://github.com/KRISHNA-1505/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -381,6 +384,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KRISHNA-1505/Leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/KRISHNA-1505/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KRISHNA-1505/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
