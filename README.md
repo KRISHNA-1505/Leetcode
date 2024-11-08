@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/KRISHNA-1505/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KRISHNA-1505/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/KRISHNA-1505/Leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Design
 |  |
