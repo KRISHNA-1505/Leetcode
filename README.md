@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KRISHNA-1505/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/KRISHNA-1505/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Design
