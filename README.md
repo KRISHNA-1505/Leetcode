@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KRISHNA-1505/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KRISHNA-1505/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRISHNA-1505/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0065-valid-number) |
+| [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KRISHNA-1505/Leetcode/tree/master/0443-string-compression) |
