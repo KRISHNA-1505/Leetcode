@@ -486,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KRISHNA-1505/Leetcode/tree/master/0218-the-skyline-problem) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/KRISHNA-1505/Leetcode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
