@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/KRISHNA-1505/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/KRISHNA-1505/Leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KRISHNA-1505/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/KRISHNA-1505/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
