@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KRISHNA-1505/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/KRISHNA-1505/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/KRISHNA-1505/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/KRISHNA-1505/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KRISHNA-1505/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/KRISHNA-1505/Leetcode/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/KRISHNA-1505/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/KRISHNA-1505/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
