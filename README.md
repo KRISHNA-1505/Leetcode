@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KRISHNA-1505/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KRISHNA-1505/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/KRISHNA-1505/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/KRISHNA-1505/Leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/KRISHNA-1505/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
