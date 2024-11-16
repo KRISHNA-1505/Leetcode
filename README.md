@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KRISHNA-1505/Leetcode/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/KRISHNA-1505/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/KRISHNA-1505/Leetcode/tree/master/0279-perfect-squares) |
 | [0464-can-i-win](https://github.com/KRISHNA-1505/Leetcode/tree/master/0464-can-i-win) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/KRISHNA-1505/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/KRISHNA-1505/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KRISHNA-1505/Leetcode/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KRISHNA-1505/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0547-number-of-provinces](https://github.com/KRISHNA-1505/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/KRISHNA-1505/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/KRISHNA-1505/Leetcode/tree/master/0744-network-delay-time) |
