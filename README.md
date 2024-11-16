@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/KRISHNA-1505/Leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KRISHNA-1505/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/KRISHNA-1505/Leetcode/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/KRISHNA-1505/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KRISHNA-1505/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/KRISHNA-1505/Leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/KRISHNA-1505/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/KRISHNA-1505/Leetcode/tree/master/0127-word-ladder) |
+| [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/KRISHNA-1505/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KRISHNA-1505/Leetcode/tree/master/0443-string-compression) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KRISHNA-1505/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
+| [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 ## Design
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Union Find
 |  |
