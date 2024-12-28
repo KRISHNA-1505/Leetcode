@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/KRISHNA-1505/Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/KRISHNA-1505/Leetcode/tree/master/0174-dungeon-game) |
+| [0204-count-primes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KRISHNA-1505/Leetcode/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KRISHNA-1505/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/KRISHNA-1505/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/KRISHNA-1505/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KRISHNA-1505/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/KRISHNA-1505/Leetcode/tree/master/0258-add-digits) |
 | [1906-maximize-score-after-n-operations](https://github.com/KRISHNA-1505/Leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2722-prime-in-diagonal](https://github.com/KRISHNA-1505/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -503,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KRISHNA-1505/Leetcode/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KRISHNA-1505/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
