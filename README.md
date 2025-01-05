@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KRISHNA-1505/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KRISHNA-1505/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/KRISHNA-1505/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KRISHNA-1505/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KRISHNA-1505/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KRISHNA-1505/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KRISHNA-1505/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KRISHNA-1505/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/KRISHNA-1505/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KRISHNA-1505/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/KRISHNA-1505/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/KRISHNA-1505/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KRISHNA-1505/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
